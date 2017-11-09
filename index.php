@@ -1,0 +1,420 @@
+<?php include 'php/contact.php' ?>
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!-- Mirrored from elieldinaully.fr/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Nov 2017 16:08:09 GMT -->
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="Mohammed Aamoum Portfolio Informatique Analyste Programmeur cSharp Web HTML CSS  Maroc Developpeur" />
+<meta name="description" content="Portfolio Aamoum Mohammed. Développeur Web & Desktop - Maroc" />
+<meta name="author" content="Mohammed Aamoum">
+<title>Portfolio Mohammed Aamoum - Développeur Web & Desktop - Maroc </title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--main style-->
+<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+<!--background slider style-->
+<link rel="stylesheet" type="text/css" href="index.html" />
+<!--google font style-->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300' rel='stylesheet' type='text/css'>
+<!--font-family: 'Open Sans', sans-serif;-->
+<!-- font css style-->
+<link rel="stylesheet" href="css/font-awesome.css">
+<!--for slider style-->
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<noscript>
+<link rel="stylesheet" type="text/css" href="css/fallback.css" />
+</noscript>
+<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="css/fallback.css" />
+		<![endif]-->
+</head><body>
+<!--wrapper start-->
+<div class="wrapper" id="wrapper">
+  <header>
+    <!--banner start-->
+    <div class="banner row" id="banner">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadd" style="height:100%">
+        <!--background slide show start-->
+        <div class="bannerPart"> <img src="images/2.jpg" alt="" class="bannerImg"> </div>
+        <!--background slide show end-->
+      </div>
+    </div>
+    <!--banner end-->
+    <div class="bannerText container">
+      <h1>Je suis Mohammed Aamoum</h1>
+      <h2>Développeur Web & Desktop</h2>
+    </div>
+    <!--menu start-->
+    <div class="menu">
+      <div class="navbar-wrapper">
+        <div class="container">
+          <div class="navwrapper">
+            <div class="navbar navbar-inverse navbar-static-top">
+              <div class="container">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                  <a class="navbar-brand" href="#">Menu</a> </div>
+                <div class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav">
+                    <li class="menuItem active"><a href="#wrapper">Accueil</a></li>
+                    <li class="menuItem"><a href="#aboutme">À propos</a></li>
+                    <li class="menuItem"><a href="#technical">Compétences</a></li>
+                    <li class="menuItem"><a href="#exprience">Experience</a></li>
+                    <li class="menuItem"><a href="#education">Diplomes</a></li>
+                    <li class="menuItem"><a href="#protfolio">Portfolio</a></li>
+                    <li class="menuItem"><a href="#contact">Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Navbar -->
+        </div>
+      </div>
+    </div>
+    <!--menu end-->
+  </header>
+  <!--about me start-->
+  <section class="aboutme" id="aboutme">
+    <div class="container">
+      <div class="heading">
+        <h2>À propos</h2>
+        <p>Une petite présentation pour mieux me connaître</p>
+      </div>
+      <div class="row">
+        <div class=" col-xs-12 col-sm-12 col-md-7 col-lg-7">
+          <h3>Mohammed Aamoum, 21 ans</h3>
+          <h4 class="subHeading">Développeur Web & Desktop de Maroc</h4>
+          <p>Je suis analyste-programmeur et diplômé d'un DTS (Diplôme Bac+2 de Technicien spécialisé) en Développement informatique J'ai des certificats en Microsoft Dans HTML5 Et CSS3,Javascript,cSharp. Je travaille actuellement en tant que développeur web en freelance.</p>
+          <p>Ce portfolio a pour but de présenter les différents projets sur lesquels j'ai travaillé ces dernières années. Vous pouvez également visualiser mon CV et le télécharger. </p>
+          <p>Si vous avez une question, ou si vous avez simplement besoin d'un renseignement, vous pouvez me contacter en cliquant ici: <a href="#contact">Contact</a>.</p>
+          <a href="cv.pdf" class="bntDownload">Télécharger mon CV</a> </div>
+        <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4 col-md-offset-1 col-lg-offset-1 proPic"> <img src="images/photo.jpg" alt="" class="img-circle topmar"> </div>
+      </div>
+    </div>
+  </section>
+  <!--about me end-->
+  <!--technical start-->
+  <section class="technical" id="technical">
+    <div class="container">
+      <div class="heading">
+        <h2>Compétences techniques</h2>
+        <p>Les différents domaines que je maîtrise</p>
+      </div>
+      <div class="row">
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
+          <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="90"> <span class="percent"></span> </span>
+            <h4>HTML5 / CSS3</h4>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
+          <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="80"> <span class="percent"></span> </span>
+            <h4>Bootstrap</h4>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
+          <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="80"> <span class="percent"></span> </span>
+            <h4>C#/Sql Server</h4>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
+          <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="75"> <span class="percent"></span> </span>
+            <h4>PHP / MySQL</h4>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
+          <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="70"> <span class="percent"></span> </span>
+            <h4>Wordpress</h4>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+        <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
+          <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills"> <span class="chart skilBg" data-percent="50"> <span class="percent"></span> </span>
+            <h4>Javascript</h4>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--technical end-->
+  <!--exprience start-->
+  <section class="exprience" id="exprience">
+    <div class="container">
+      <div class="heading">
+        <h2>Expérience professionnelle</h2>
+        <p>Mes précédentes associations</p>
+      </div>
+      <div class="row workDetails">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">17 Octobre,2017<br>
+            07 Novembre, 2017</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4>Agence web Soft High Tech</h4>
+            <h5>Intégrateur Web</h5>
+            <p>découpage des maquettes graphique d'un thème et le transformer à un site responsive avec HTML5 et CSS3, bootstrap 3.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row workDetails">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">01 Juillet,2017<br>
+            30 Août,2017</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4>Arrondissement Rabat Hassan Maroc</h4>
+            <h5>Développeur Web</h5>
+            <p>Réalisation d’un Blog Avec le CMS WordPress </p>
+          </div>
+        </div>
+      </div>
+      <div class="row workDetails">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">03 Avril ,2017<br>
+            15 Mai,2017</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4> Wilaya de la Région de Rabat-Sale-Kenitra Préfecture de Rabat Maroc</h4>
+            <h5>Stage de fin de DTS</h5>
+            <p>Conception et Réalisation d’un système de gestion du paiement des factures Eau/électricité avec asp.net</p
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--exprience end-->
+  <!--education start-->
+  <section class="education" id="education">
+    <div class="container">
+      <div class="heading">
+        <h2>Diplômes</h2>
+        <p>Mon parcours scolaire</p>
+      </div>
+      <div class="row workDetails" style="margin-bottom: 27px;">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">Juin,2017</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4>Diplôme de Téchnicien Spécialisé en développement Informatique</h4>
+            <h5>Au Sein de l’institut spécialisé de technologie appliqué hay salam salé Maroc</h5>
+          </div>
+        </div>
+      </div>
+      <div class="row workDetails" style="margin-bottom: 27px;">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">Décembre, 2016</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4>Certificat de Microsoft</h4>
+            <h5>MS Programming in HTML5 with Javascript and CSS3</h5>
+          </div>
+        </div>
+      </div>
+      <div class="row workDetails">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">Mai, 2016</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4>Certificats de Microsoft</h4>
+            <h5>Microsoft Certification 483 – Programming in c# - English (ENU)</h5>
+			<h5>MCPS : Microsoft Certified Professional (Word)</h5>
+         </div>
+        </div>
+      </div>
+      <div class="row workDetails">
+        <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+          <div class="workYear">Juin, 2015</div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+          <div class="arrowpart"></div>
+          <div class="exCon">
+            <h4>Baccalauréat Option science de la vie et de la terre</h4>
+            <h5>Lycée Madariss mohammed 5</h5>
+            <p>&nbsp;</p>
+         </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--education end-->
+  <!--protfolio start-->
+  <section class="protfolio" id="protfolio">
+    <div class="container">
+      <div class="heading">
+        <h2>Portfolio</h2>
+        <p>Mes derniers travaux</p>
+      </div>
+      <div class="portfolioFilter">
+        <ul>
+          <li><a href="#" data-filter="*" class="current">Tout</a></li>
+          <li><a href="#" data-filter=".wordpress">Wordpress</a></li>
+          <li><a href="#" data-filter=".aspnet">Asp.net</a></li>
+		  <li><a href="#" data-filter=".shopify">shopify</a></li>
+          <li><a href="#" data-filter=".autres">Autres</a></li>
+        </ul>
+      </div>
+      <ul class="portfolioContainer row">
+        <li class="wordpress col-xs-6 col-sm-4 col-md-3 col-lg-3">
+          <div class="lightCon"> <span class="hoverBox"> <span class="smallIcon"> <a rel="lightbox-demo" href="images/portfolio/big/rabt.png" subtitle="" title="Blog siteweb de rabat hassan maroc" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a></i></a> </span> </span> <img src="images/portfolio/big/rabt.png" alt=""  > </div>
+        </li>
+         <li class="wordpress col-xs-6 col-sm-4 col-md-3 col-lg-3">
+          <div class="lightCon"> <a  href="https://www.golden-assurance.fr"  target="_blank"  title="Golden assurance comparateur d'assurance" > <img src="images/portfolio/big/golden_assurance.png" alt=""  > </a></div>
+        </li>
+        <li class="aspnet col-xs-6 col-sm-4 col-md-3 col-lg-3">
+          <div class="lightCon"> <a  href=""  target="_blank"  title="Site Intranet avec asp.net Conception et Réalisation d’un système de gestion du paiement des factures Eau/électricité avec asp.net" > <img src="images/portfolio/big/intranet_site.png" alt=""  > </a></div>
+        </li>
+         <li class="autres col-xs-6 col-sm-4 col-md-3 col-lg-3">
+          <div class="lightCon"> <a  href=""   title="responsive login page avec bootstrap 3" > <img src="images/portfolio/big/login_page.png" alt=""  > </a></div>
+        </li><br>
+        <li class="autres col-xs-6 col-sm-4 col-md-3 col-lg-3">
+          <div class="lightCon"> <a  href=""  target="_blank"  title="Responsive product page avec html5 css3 bootstrap 3" > <img src="images/portfolio/big/product_psd_html.png" alt=""  > </a></div>
+        </li>
+		<li class="shopify col-xs-6 col-sm-4 col-md-3 col-lg-3">
+          <div class="lightCon"> <a  href="https://thediscountshoponline.com/" target="_blank"  title="Creation d'un store e-commerce avec shopify" > <img src="images/portfolio/big/shopify_exemple.png" alt=""  > </a></div>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <!--protfolio end-->
+  <!--contact start-->
+  <section class="contact" id="contact">
+    <div class="container topCon">
+      <div class="heading">
+        <h2>Me contacter</h2>
+        <p>N'hésitez pas à me contacter pour plus d'informations.</p>
+      </div>
+    </div>
+  </section>
+  <section class="contactDetails">
+    <div class="container">
+      <!--contact info start-->
+      <div class="col-xs-12 col-sm-3 col-md-4 col-lg-4">
+        <h4>Détails</h4>
+<p> <i class="fa fa-map-marker fa-lg"></i> Rabat, Maroc</p>
+        <p> <i class="fa fa-mobile fa-lg"></i> &nbsp;+212.696.43.43.70</p>
+        <p> <i class="fa fa-envelope-o "></i> <a href="mailto:mohammed.aamoum@outlook.fr">mohammed.aamoum@outlook.fr</a></p>
+        <p> <i class="fa fa-link "></i> <a href="index.html">http://www.mohammedaamoum.io</a></p>
+      </div>
+      <!--contact info end-->
+      <!--contact form start-->
+      <div class="col-xs-12 col-sm-9 col-md-8 col-lg-8 conForm">
+        <h4>Ecrivez-moi!</h4>
+        <div id="message"></div>
+        <form method="post" action="php/contact.php" name="cform" id="cform">
+          <input name="name" id="name" type="text" class="col-xs-12 col-sm-6 col-md-6 col-lg-6" placeholder="Votre nom..." >
+          <input name="email" id="email" type="email" class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 noMarr" placeholder="Votre email..." >
+          <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Votre message..."></textarea>  
+          <input type="submit" id="submit" name="send" class="submitBnt" value="Envoyer le message">
+          <div id="simple-msg"></div>
+        </form>
+      </div>
+      <!--contact form end-->
+    </div>
+  </section>
+  <!--contact end-->
+  <!--footer start-->
+  <section class="footer" id="footer">
+    <div class="container">
+      <ul>
+        <li><a href="https://www.facebook.com/mohammed.aamoum.79" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+      <!--  <li><a href="#"><i class="fa fa-facebook fa-2x"></i></a></li>!-->
+        <li><a href="https://www.linkedin.com/in/mohammed-aamoum" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a></li>
+      <!--  <li><a href="#"><i class="fa fa-rss fa-2x"></i></a></li>!-->
+      </ul>
+    </div>
+  </section>
+  <!--footer end-->
+</div>
+<!--wrapper end-->
+<!--modernizr js-->
+<script type="text/javascript" src="js/modernizr.custom.26633.js"></script>
+<!--jquary min js-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.gridrotator.js"></script>
+<!--for custom jquary-->
+<script src="js/custom.js"></script>
+<!--for placeholder jquary-->
+<script type="text/javascript" src="js/jquery.placeholder.js"></script>
+<!--for menu jquary-->
+<script type="text/javascript" src="js/stickUp.js"></script>
+<script type="text/javascript">
+jQuery(function($) {
+$(document).ready( function() {
+  //enabling stickUp on the '.navbar-wrapper' class
+  $('.navbar-wrapper').stickUp({
+				parts: {
+				  0: 'banner',
+				  1: 'aboutme',
+				  2: 'technical',
+				  3: 'exprience',
+				  4: 'education',
+				  5: 'awards',
+				  6: 'protfolio',
+				  7: 'contact'
+				},
+				itemClass: 'menuItem',
+				itemHover: 'active',
+				topMargin: 'auto'
+			  });
+});
+
+$( ".navbar.navbar-inverse.navbar-static-top a" ).click(function() {
+  $( ".navbar-collapse" ).addClass( "hideClass" );
+});
+
+
+$( ".navbar.navbar-inverse.navbar-static-top a" ).click(function() {
+  $( ".navbar-collapse" ).addClass( "collapse" );
+});
+
+
+$( ".navbar.navbar-inverse.navbar-static-top a" ).click(function() {
+  $( ".navbar-collapse" ).removeClass( "in" );
+});
+
+$( ".navbar-toggle" ).click(function() {
+  $( ".navbar-collapse" ).removeClass( "hideClass" );
+});
+
+
+});
+</script>
+<!--for portfoli filter jquary-->
+<script src="js/jquery.isotope.js" type="text/javascript"></script>
+<!--for portfoli lightbox -->
+<link type="text/css" rel="stylesheet" id="theme" href="css/jquery-ui-1.8.16.custom.css">
+<link type="text/css" rel="stylesheet" href="css/lightbox.min.css">
+<script type="text/javascript" src="js/jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="js/jquery.ui.rlightbox.js"></script>
+<!--for skill chat jquary-->
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/jquery.easypiechart.js"></script>
+<!--contact form js-->
+<script type="text/javascript" src="js/jquery.contact.js"></script>
+</body>
+
+<!-- Mirrored from elieldinaully.fr/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Nov 2017 16:08:53 GMT -->
+</html>
